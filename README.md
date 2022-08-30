@@ -8,5 +8,5 @@ C:\사용자\\<사용자ID>\\.jupyter 폴더에 쥬피터 노트북 설정이 �
 .jupyter 폴더가 보이지 않으면 까만 화면에서 jupyter notebook --generate-config를 실행한다.
 
 # 헤더 정보 사이트
-https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/
+https://developers.whatismybrowser.com/useragents/explore/layout_engine_name/trident/  
 header = {"User-agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"}
